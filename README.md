@@ -1,5 +1,3 @@
-# vehicle-lateral-control-mpc-pid
-Vehicle lateral control simulation using PID and MPC (learning project)
 # Vehicle Lateral Control using PID and MPC
 
 This project is a **learning-focused simulation** of vehicle lateral control
