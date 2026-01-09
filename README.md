@@ -21,25 +21,6 @@ This type of control problem is commonly studied in:
 - Robotics
 - Advanced Driver Assistance Systems (ADAS)
 
----
-
-## 📂 Repository Structure
-
-- `MAIN_MPC_car_lateral.py`  
-  Main simulation script. Runs the controller, updates vehicle states,
-  and generates plots and animations.
-
-- `support_files_car.py`  
-  Helper functions and vehicle dynamics used by the main simulation.
-
-- `results/`  
-  Stores output plots and simulation results.
-
-- `requirements.txt`  
-  Python dependencies (NumPy, Matplotlib).
-
----
-
 ## 🧠 Control Methods
 
 ### PID Control
