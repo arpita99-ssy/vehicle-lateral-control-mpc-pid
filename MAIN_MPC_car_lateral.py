@@ -389,6 +389,8 @@ plt.xlabel('t-time [s]',fontsize=15)
 plt.ylabel('y-position [m]',fontsize=15)
 plt.grid(True)
 plt.legend(loc='center right',fontsize='small')
+plt.savefig("results/trajectory_tracking.png", dpi=300, bbox_inches="tight")
 plt.show()
+
 
 ''' Also treat the case when Ki-s are 0'''
